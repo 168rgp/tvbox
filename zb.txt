@@ -114,60 +114,8 @@ CCTV13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
 央视频道,#genre#
 
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5p
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd2
-CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-CCTV5+,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV-4K,http://live.cooltv.top/tv/cctv4k_backup.php
-CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-中国教育,http://live.cooltv.top/tv/aishang.php?id=cetv1hd
-中国教育2,http://live.cooltv.top/tv/aishang.php?id=cetv2
-中国教育4,http://live.cooltv.top/tv/aishang.php?id=cetv4
 
-卫视
-陕西卫视,http://live.cooltv.top/tv/aishang.php?id=sxws
-湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
-浙江卫视,http://live.cooltv.top/tv/aishang.php?id=zjwshd
-东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
-江苏卫视,http://live.cooltv.top/tv/aishang.php?id=jswshd
-北京卫视,http://live.cooltv.top/tv/aishang.php?id=bjwshd
-深圳卫视,http://live.cooltv.top/tv/aishang.php?id=szwshd
-山东卫视,http://live.cooltv.top/tv/aishang.php?id=sdwshd
-广东卫视,http://live.cooltv.top/tv/aishang.php?id=gdwshd
-安徽卫视,http://live.cooltv.top/tv/aishang.php?id=ahwshd
-东南卫视,http://live.cooltv.top/tv/aishang.php?id=dnwshd
-天津卫视,http://live.cooltv.top/tv/aishang.php?id=tjwshd
-重庆卫视,http://live.cooltv.top/tv/aishang.php?id=cqws
-湖北卫视,http://live.cooltv.top/tv/aishang.php?id=hubwshd
-四川卫视,http://live.cooltv.top/tv/aishang.php?id=scws
-河南卫视,http://live.cooltv.top/tv/aishang.php?id=hnws
-吉林卫视,http://live.cooltv.top/tv/aishang.php?id=jlws
-云南卫视,http://live.cooltv.top/tv/aishang.php?id=ynws
-广西卫视,http://live.cooltv.top/tv/aishang.php?id=gxws
-江西卫视,http://live.cooltv.top/tv/aishang.php?id=jxws
-黑龙江卫视,http://live.cooltv.top/tv/aishang.php?id=hljwshd
-河北卫视,http://live.cooltv.top/tv/aishang.php?id=hbwshd
-青海卫视,http://live.cooltv.top/tv/aishang.php?id=qhws
-贵州卫视,http://live.cooltv.top/tv/aishang.php?id=gzwshd
-西藏卫视,http://live.cooltv.top/tv/aishang.php?id=xzws
-甘肃卫视,http://live.cooltv.top/tv/aishang.php?id=gsws
-新疆卫视,http://live.cooltv.top/tv/aishang.php?id=xjws
-厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
-内蒙古卫视,http://live.cooltv.top/tv/aishang.php?id=nmws
+
 
 CCTV1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$移动超清
 CCTV2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动超清
@@ -647,6 +595,38 @@ CCTV 世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 西藏卫视,http://221.2.36.34:8888/newlive/live/hls/37/live.m3u8
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
+
+
+陕西卫视,http://live.cooltv.top/tv/aishang.php?id=sxws
+湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
+浙江卫视,http://live.cooltv.top/tv/aishang.php?id=zjwshd
+东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
+江苏卫视,http://live.cooltv.top/tv/aishang.php?id=jswshd
+北京卫视,http://live.cooltv.top/tv/aishang.php?id=bjwshd
+深圳卫视,http://live.cooltv.top/tv/aishang.php?id=szwshd
+山东卫视,http://live.cooltv.top/tv/aishang.php?id=sdwshd
+广东卫视,http://live.cooltv.top/tv/aishang.php?id=gdwshd
+安徽卫视,http://live.cooltv.top/tv/aishang.php?id=ahwshd
+东南卫视,http://live.cooltv.top/tv/aishang.php?id=dnwshd
+天津卫视,http://live.cooltv.top/tv/aishang.php?id=tjwshd
+重庆卫视,http://live.cooltv.top/tv/aishang.php?id=cqws
+湖北卫视,http://live.cooltv.top/tv/aishang.php?id=hubwshd
+四川卫视,http://live.cooltv.top/tv/aishang.php?id=scws
+河南卫视,http://live.cooltv.top/tv/aishang.php?id=hnws
+吉林卫视,http://live.cooltv.top/tv/aishang.php?id=jlws
+云南卫视,http://live.cooltv.top/tv/aishang.php?id=ynws
+广西卫视,http://live.cooltv.top/tv/aishang.php?id=gxws
+江西卫视,http://live.cooltv.top/tv/aishang.php?id=jxws
+黑龙江卫视,http://live.cooltv.top/tv/aishang.php?id=hljwshd
+河北卫视,http://live.cooltv.top/tv/aishang.php?id=hbwshd
+青海卫视,http://live.cooltv.top/tv/aishang.php?id=qhws
+贵州卫视,http://live.cooltv.top/tv/aishang.php?id=gzwshd
+西藏卫视,http://live.cooltv.top/tv/aishang.php?id=xzws
+甘肃卫视,http://live.cooltv.top/tv/aishang.php?id=gsws
+新疆卫视,http://live.cooltv.top/tv/aishang.php?id=xjws
+厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
+内蒙古卫视,http://live.cooltv.top/tv/aishang.php?id=nmws
+
 
 
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
