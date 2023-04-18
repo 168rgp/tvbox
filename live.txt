@@ -1,36 +1,36 @@
 
 央视频道,#genre#
 
-CCTV1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$移动超清1
-CCTV2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动超清1
-CCTV3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$移动超清1
-CCTV4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$移动超清1
-CCTV5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$移动超清1
-CCTV5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$移动超清1
-CCTV6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动超清1
-CCTV7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$移动超清1
-CCTV8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$移动超清1
-CCTV9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$移动超清1
-CCTV10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$移动超清1
-CCTV11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$移动超清1
-CCTV12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$移动超清1
-CCTV13 新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动超清1
-CCTV14 少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$移动超清1
-CCTV15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$移动超清1
-CCTV16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$移动超清1
-CCTV17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$移动超清1
-CCTV 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8$移动超清1
-CCTV 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8$移动超清1
-CCTV 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8$移动超清1
-CCTV 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$移动超清1
-CCTV 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8$移动超清1
-CCTV 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8$移动超清1
-CCTV 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8$移动超清1
-CCTV 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8$移动超清1
-CCTV 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8$移动超清1
-CCTV 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8$移动超清1
-CCTV 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8$移动超清1
-CCTV 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8$移动超清1
+CCTV1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$移动超清
+CCTV2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动超清
+CCTV3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$移动超清
+CCTV4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$移动超清
+CCTV5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$移动超清
+CCTV5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$移动超清
+CCTV6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动超清
+CCTV7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$移动超清
+CCTV8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$移动超清
+CCTV9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$移动超清
+CCTV10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$移动超清
+CCTV11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$移动超清
+CCTV12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$移动超清
+CCTV13 新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动超清
+CCTV14 少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$移动超清
+CCTV15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$移动超清
+CCTV16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$移动超清
+CCTV17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$移动超清
+CCTV 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8$移动超清
+CCTV 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8$移动超清
+CCTV 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8$移动超清
+CCTV 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$移动超清
+CCTV 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8$移动超清
+CCTV 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8$移动超清
+CCTV 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8$移动超清
+CCTV 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8$移动超清
+CCTV 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8$移动超清
+CCTV 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8$移动超清
+CCTV 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8$移动超清
+CCTV 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8$移动超清
 
 
 
