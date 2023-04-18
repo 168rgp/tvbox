@@ -571,9 +571,9 @@ CCTV 世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 云南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 贵州卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-西藏卫视高清,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
-西藏影视文化高清,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
-西藏藏语高清,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
+西藏卫视,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
+西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+西藏藏语,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
 湖南卫视,http://39.184.224.99:9080/newlive/live/hls/18/live.m3u8
 东方卫视,http://39.184.224.99:9080/newlive/live/hls/19/live.m3u8
 江苏卫视,http://39.184.224.99:9080/newlive/live/hls/20/live.m3u8
