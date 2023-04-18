@@ -19,7 +19,7 @@
 {"key":"csp_apple",  "name":"🍎小 苹 果〔SP〕", "type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77",     "name":"🌈酷云七七〔SP〕", "type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣",    "name": "🔍豆瓣热搜",      "type":3,"api": "https://raw.iqiq.io/168rgp/tvbox/main/js/lib/drpy2.min.js", "searchable": 3, "quickSearch": 0, "filterable": 0, "ext": "https://raw.iqiq.io/168rgp/tvbox/main/js/%E8%B1%86%E7%93%A3.js" },
-{"key":"直 播",       "name":"💻电视直播",       "type":3,"api":"https://raw.iqiq.io/168rgp/tvbox/main/js/lib/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js", "ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt #饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#彩虹电视$https://raw.iqiq.io/168rgp/tvbox/main/live.txt"},
+{"key":"直 播",       "name":"💻电视直播",       "type":3,"api":"https://raw.iqiq.io/168rgp/tvbox/main/js/lib/直播转点播.js", "ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt #饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#彩虹电视$https://raw.iqiq.io/168rgp/tvbox/main/live.txt"},
 
 {"key":"csp_SP360",  "name": "💘360影视〔SP〕", "type":3, "api": "csp_SP360", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.iqiq.io/168rgp/tvbox/main/jar/xzy1029.jar" },
 {"key":"csp_Czsapp",  "name":"🏭厂长影视〔SP〕", "type":3,"api":"csp_Czsapp","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
