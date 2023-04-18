@@ -269,9 +269,9 @@ CCTV14 少儿,https://live.v1.mk/api/ghyx.php?id=CCTV14HD_6000$歌华有线
 CCTV15 音乐,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000$歌华有线
 CCTV16 奥林匹克,https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000$歌华有线
 CCTV17 农业农村,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000$歌华有线
-CHC家庭影院 标清,https://live.v1.mk/api/ghyx.php?id=CHCHD_2000$歌华有线
+CHC家庭影院,https://live.v1.mk/api/ghyx.php?id=CHCHD_2000$歌华有线
 CHC高清电影,https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000$歌华有线
-CHC动作电影 标清,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000$歌华有线
+CHC动作电影,https://live.v1.mk/api/ghyx.php?id=MotionHD_2000$歌华有线
 
 CCTV1 综合,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1 综合,http://39.134.65.141/PLTV/88888888/224/3221225816/index.m3u8
