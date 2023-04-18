@@ -5,7 +5,7 @@
 
 {
 
-      "spider": "https://raw.iqiq.io/168rgp/tvbox/main/fm.jar;md5;fd1b07d4bc51c76f592a56c3185efcfe",
+      "spider": "http://52bsj.vip:81/api/v3/file/get/127905/fm.jar?sign=vEeOcMJ81MQMbRb_iQi6ndC4MNL-P3rHGjcgeEMG51c%3D%3A0;md5;fd1b07d4bc51c76f592a56c3185efcfe",
  
  
   //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMTAxOTEyL3piLnR4dD9zaWduPXhHajNrTGh5NlhsV0xVX2ktS2wyS3ptYlA0NVoyVk5fUVZ2Q0doX0ZmSUklM0QlM0Ew"]}]}],
