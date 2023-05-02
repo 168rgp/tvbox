@@ -13,6 +13,8 @@ IOS外区应用代购：点击查看
 全平台代理客户端收集：点击进入
 群晖NAS、OpenWrt软路由部署PHP直播源教程：点击查看
 斗、虎、抖、哔、YouTuBe等平台直播源代理教程：点击观看
+
+
 Ftindy大神
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u    4K/8K源
 
@@ -28,7 +30,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.
 
 https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u    ITOUCH源
 
-敬请期待    请期待
+
 
 APTV
 https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u    APTV 虎牙一起看
