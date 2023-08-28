@@ -7,7 +7,7 @@
 
       "spider": "https://raw.iqiq.io/168rgp/tvbox/main/jar/fm.jar;md5;fd1b07d4bc51c76f592a56c3185efcfe",
  
- 
+
    "lives":[{"name":"live","type":0,"url":"https://raw.iqiq.io/168rgp/tvbox/main/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 
